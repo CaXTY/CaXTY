@@ -139,7 +139,8 @@ Me chamo Carlos Eduardo Lemos Silva, tenho 25 anos e sou de Belém do Pará. Con
 />
 
 <br/>
-<br/>
+
+---
 
 ### 📊 Estatísticas
 

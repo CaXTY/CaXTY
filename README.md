@@ -129,6 +129,12 @@ Me chamo Carlos Eduardo Lemos Silva, tenho 25 anos e sou de Belém do Pará. Con
 
 ---
 
+
+### Onde me encontrar:
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silvaeduardo0112@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-lemos-silva-6b5689360/)
+
+
 ### 📊 Estatísticas 
 
 <p>
@@ -149,10 +155,3 @@ Me chamo Carlos Eduardo Lemos Silva, tenho 25 anos e sou de Belém do Pará. Con
 
 </p>
 
-<br/>
-
----
-
-### Onde me encontrar:
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silvaeduardo0112@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-lemos-silva-6b5689360/)

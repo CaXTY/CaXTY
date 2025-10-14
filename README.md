@@ -2,7 +2,7 @@
 
 **`Desenvolvedor e DBA`**
 
-Me chamo Carlos Eduardo Lemos Silva, tenho 25 anos e sou de Belém do Pará. Concluir o ensino Superior na Cruzeiro do Sul, com o curso Gestão de Tecnologia da Informação. Atualmente, estou estudando: Banco de Dados (MYSQL e SQL) | HTML5 e CSS3 | JAVASCRIPT| PYTHON. Curto bastante esse rumo da tecnologia e compartilho meu conhecimento aqui.
+Me chamo Carlos Eduardo Lemos Silva, tenho 25 anos e sou de Belém do Pará. Concluir o ensino Superior na Cruzeiro do Sul, com o curso Gestão de Tecnologia da Informação. Atualmente, estou estudando: Banco de Dados (MYSQL e SQL) | HTML5 e CSS3 | JAVASCRIPT| PYTHON | PHP. Curto bastante esse rumo da tecnologia e compartilho meu conhecimento aqui.
 
 <p align="left">
     <a href="https://github.com/caXTY?tab=repositories&sort=stargazers">
@@ -145,7 +145,7 @@ Me chamo Carlos Eduardo Lemos Silva, tenho 25 anos e sou de Belém do Pará. Con
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=CaXTY&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api/?username=CaXTY&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 

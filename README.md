@@ -56,7 +56,7 @@ Me chamo Carlos Eduardo Lemos Silva, tenho 25 anos e sou de Belém do Pará. Con
     title="C#" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-line.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"          
 />
  
 <img 
